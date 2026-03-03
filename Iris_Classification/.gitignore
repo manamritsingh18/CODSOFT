@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
